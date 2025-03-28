@@ -1,27 +1,21 @@
-#ALL DevOps Tech Environment Setup
-
-This project showcases my Local DevOps environment, intergrating essentials tools for automation, cloud computing, and development workflows
-
-## Tech Stack
-- **AWS** - cloud infrastruture for deployment
-- **Git Bash** - command-line interface for automation.
-- **VS code** - Code editor for development
-- **Ubuntu** - Linux-based environment for containerization
+#Tech Environment Setup
 
 ## Screenshots
-### AWS
-_Cloud environment setup_
-![AWS Screenshot](screenshots/aws.png)
 
-### Git Bash
-_Terminal for Managing repositories_
-![Git Bash Screenshot](screenshots/git-bash.png)
+### Visual Studio Code Welcome Screen
+![VSCODE Screenshot](screenshots/vscode.png)
 
-### VS Code
-_Development and Integration of DevOps tools._
-![VS code Screenshot](screenshots/vscode.png)
+### Git Installation confirmation
+![Git Screenshot](screenshots/git_confirmation_installation.png)
 
-### Ubuntu 
-_Linux-based environment for scripting._
-![Ubuntu Screebshot](screenshots/ubuntu.png)
+### Oracle VirtualBox Manager Welcome Screen
+![Oracle VirtualBox Manager Screenshot](screenshots/Oracle-VirtualBox-Welcome.png)
 
+### Ubuntu Login Prompt in Virtual BoX
+![Ubuntu Screebshot](screenshots/ubuntu-welcome.png)
+
+### GitHub User Account Setup
+![GitHub Screenshot](screenshots/GitHub.png)
+
+### AWS USER Account Setup
+![Aws screenshots](screenshots/aws.png)
